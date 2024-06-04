@@ -7,7 +7,7 @@ In the project directory, you can run:
 ### `npm start`
 </br>
 </br>
-💡 다음 에러 발생 시,
+💡 <span style="background-color: yellow;">다음 에러 발생 시,</span>
 </br>
 ERROR in ./src/components/Card.js 105:0-51
 Module not found: Error: Can't resolve '@mui/icons-material' 
