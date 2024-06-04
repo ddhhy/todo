@@ -5,11 +5,12 @@
 In the project directory, you can run:
 ### `npm install`
 ### `npm start`
-<br>
-<br>
+</br>
+</br>
 💡다음 에러 발생 시,
 ERROR in ./src/components/Card.js 105:0-51
 Module not found: Error: Can't resolve '@mui/icons-material' 
+
 ### `npm install @mui/icons-material`
 
 Runs the app in the development mode.\
